@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import Search from "./Search";
 import MovieDetail from "./MovieDetail";
-import Toggle from "./toggle.jsx"; // Ensure this is the correct path
+import Toggle from "./Toggle";
 import "./global.css";
 
 const App = () => {
